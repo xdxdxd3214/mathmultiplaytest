@@ -1,0 +1,16 @@
+{
+	"name": "@mercuryworkshop/anuraos-types",
+	"version": "$VER",
+	"description": "Type declarations for anuraOS",
+	"types": "index.d.ts",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/MercuryWorkshop/anuraOS"
+	},
+	"author": "Mercury Workshop",
+	"license": "AGPL-3.0-only",
+	"bugs": {
+		"url": "https://github.com/MercuryWorkshop/AnuraOS/issues"
+	},
+	"homepage": "https://github.com/MercuryWorkshop/AnuraOS#readme"
+}
